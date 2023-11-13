@@ -1,2 +1,2 @@
-# Price-of-Califorinia-housing
- Predicting housing price in the Califorinia district.
+### Price-of-Califorinia-housing
+ Predicting housing price in the Califorinia district.The California housing dataset contains eight features, namely median income, median house age, average number of rooms per household, average number of bedrooms per household, block group population,average number of household members, latitude and Latitude. And the median of the house value for each district is the target variable.
